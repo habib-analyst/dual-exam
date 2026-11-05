@@ -1,0 +1,25 @@
+{
+  "seed": 118001,
+  "n": 400,
+  "coupled_success": 0.2525,
+  "coupled_success_by_fault": {
+    "none": 1.0,
+    "agent": 0.0,
+    "world": 0.01,
+    "both": 0.0
+  },
+  "coupled_attr_accuracy_single": 0.585,
+  "coupled_attr_accuracy_single_vacuous": 0.085,
+  "isolated_attr_accuracy_single": 0.965,
+  "coupled_attr_accuracy_agent": 1.0,
+  "isolated_attr_accuracy_agent": 0.99,
+  "coupled_attr_accuracy_world": 0.17,
+  "isolated_attr_accuracy_world": 0.94,
+  "benign_neither_rate": 0.91,
+  "benign_coupled_success": 1.0,
+  "gap": 0.38,
+  "gap_ci95": [
+    0.30999999999999994,
+    0.44999999999999996
+  ]
+}
